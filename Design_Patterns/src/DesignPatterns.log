@@ -1,0 +1,45 @@
+2020-03-18 10:18:32 INFO  adapterpattern.BankCustomer :15 - Enter the account holder name :
+2020-03-18 10:19:28 DEBUG iteratorpattern.IteratorPatternDemo :15 - Name : Ashwani Rajput
+2020-03-18 10:19:28 DEBUG iteratorpattern.IteratorPatternDemo :15 - Name : Soono Jaiswal
+2020-03-18 10:19:28 DEBUG iteratorpattern.IteratorPatternDemo :15 - Name : Rishi Kumar
+2020-03-18 10:19:28 DEBUG iteratorpattern.IteratorPatternDemo :15 - Name : Rahul Mehta
+2020-03-18 10:19:28 DEBUG iteratorpattern.IteratorPatternDemo :15 - Name : Hemant Mishra
+2020-03-18 10:19:47 DEBUG mementopattern.MementoPatternDemo :23 - Current State: State #4
+2020-03-18 10:19:47 DEBUG mementopattern.MementoPatternDemo :25 - First saved State: State #1
+2020-03-18 10:19:47 DEBUG mementopattern.MementoPatternDemo :27 - Second saved State: State #2
+2020-03-18 10:19:47 DEBUG mementopattern.MementoPatternDemo :29 - Third saved State: State #3
+2020-03-18 10:20:08 DEBUG builderpattern.CDType :24 - CD name : Sony CD
+2020-03-18 10:20:08 DEBUG builderpattern.CDType :25 - , Price : 20
+2020-03-18 10:20:09 DEBUG builderpattern.CDType :24 - CD name : Samsung CD
+2020-03-18 10:20:09 DEBUG builderpattern.CDType :25 - , Price : 15
+2020-03-18 10:20:28 INFO  factorypattern.GenerateBill :17 - Enter the name of plan for which the bill will be generated: 
+2020-03-18 10:21:06 INFO  factorypattern.GenerateBill :21 - Enter the number of units for bill will be calculated: 
+2020-03-18 10:21:09 DEBUG factorypattern.GenerateBill :25 - Bill amount for Domestic Plan of  4 units is: 
+2020-03-18 10:21:38 INFO  adapterpattern.BankCustomer :15 - Enter the account holder name :
+2020-03-18 10:21:43 INFO  adapterpattern.BankCustomer :17 - 
+
+2020-03-18 10:21:43 INFO  adapterpattern.BankCustomer :19 - Enter the account number:
+2020-03-18 10:21:51 INFO  adapterpattern.BankCustomer :21 - 
+
+2020-03-18 10:21:51 INFO  adapterpattern.BankCustomer :23 - Enter the bank name :
+2020-03-18 10:21:57 DEBUG adapterpattern.AdapterPatternDemo :11 - The Account number 123456789 of Nikhita in SBIbank is valid and authenticated for issuing the credit card. 
+2020-03-18 10:22:14 INFO  compositepattern.BankManager :38 - =========================
+2020-03-18 10:22:14 DEBUG compositepattern.BankManager :39 - Id =100
+2020-03-18 10:22:14 DEBUG compositepattern.BankManager :40 - Name =Ashwani Rajput
+2020-03-18 10:22:14 DEBUG compositepattern.BankManager :41 - Salary =100000.0
+2020-03-18 10:22:14 INFO  compositepattern.BankManager :42 - =========================
+2020-03-18 10:22:14 INFO  compositepattern.Cashier :31 - =========================
+2020-03-18 10:22:14 DEBUG compositepattern.Cashier :32 - Id =101
+2020-03-18 10:22:14 DEBUG compositepattern.Cashier :33 - Name =Sohan Kumar
+2020-03-18 10:22:14 DEBUG compositepattern.Cashier :34 - Salary =20000.0
+2020-03-18 10:22:14 INFO  compositepattern.Cashier :35 - =========================
+2020-03-18 10:22:14 INFO  compositepattern.Cashier :31 - =========================
+2020-03-18 10:22:14 DEBUG compositepattern.Cashier :32 - Id =102
+2020-03-18 10:22:14 DEBUG compositepattern.Cashier :33 - Name =Mohan Kumar
+2020-03-18 10:22:14 DEBUG compositepattern.Cashier :34 - Salary =25000.0
+2020-03-18 10:22:14 INFO  compositepattern.Cashier :35 - =========================
+2020-03-18 10:22:14 INFO  compositepattern.Accountant :33 - =========================
+2020-03-18 10:22:14 DEBUG compositepattern.Accountant :34 - Id =103
+2020-03-18 10:22:14 DEBUG compositepattern.Accountant :35 - Name =Seema Mahiwal
+2020-03-18 10:22:14 DEBUG compositepattern.Accountant :36 - Salary =30000.0
+2020-03-18 10:22:14 INFO  compositepattern.Accountant :37 - =========================
